@@ -14,9 +14,9 @@ const config = {
     "bio": "",
     "photoUrl": "https://i.imgur.com/i5HJ83W.jpeg",
     "social": {
-      "facebook": "",
-      "instagram": "",
-      "website": ""
+      "facebook": "https://www.facebook.com/RealEstateLondonOn/",
+      "instagram": "https://www.instagram.com/alexandra.realtor.london/",
+      "website": "https://alexandrarealtor.ca/"
     }
   },
   "brokerage": {
