@@ -28,35 +28,23 @@ const config = {
     "bundleItems": [
       {
         "icon": "fas fa-ruler-combined",
-        "text": "Architectural Floor Plan: https://youriguide.com/2450_brayford_crescent_london_on/doc/floorplan_imperial.pdf"
+        "text": "Architectural Floor Plan"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Benefit: Top Quality School Districts"
-      },
-      {
-        "icon": "fas fa-check-circle",
-        "text": "Benefit: Oversized Garage (fits two large vehicles)"
-      },
-      {
-        "icon": "fas fa-user",
-        "text": "Only One Family Owned"
-      },
-      {
-        "icon": "fas fa-car",
-        "text": "Detached Home, 4 Beds, 3 Baths, Listing Price: $1,174,900"
+        "icon": "",
+        "text": "Neighborhood Insights (Schools, Restaurants, Etc.)"
       },
       {
         "icon": "fas fa-camera-retro",
-        "text": "High-Resolution Photo/Virtual Tour: https://youriguide.com/2450_brayford_crescent_london_on/"
+        "text": "High-Resolution Photos & Virtual Tour"
       },
       {
         "icon": "fas fa-map-location-dot",
-        "text": "Neighborhood Insights: Top Quality School Districts, Young Families, Safe, Close To Ski Hill"
+        "text": "Recent Neighbourhood Sales"
       },
       {
         "icon": "fas fa-link",
-        "text": "On-Market Comparables: http://email.em.realmmlp.ca/c/eJwc0M2SmjAcAPCngVt38h08cNAishZBuytibxH-6AokIWAZ9uk701f41SFtAsq5DyGWTDK0Ioj4jTP9-T0KOVcCB_XtViPAAAJhCFbQgP8Ia8qlrKRClagrylSDK94oRhAQCWrV-F-hCIjkK4pxI3kdIEQCCgQJ5jE0Tk5Nr7EyXadub5Xp_S58TJMdPbr2SOyRWFn75kB1fd_Zt0p5JB4fykHtkdgczN3SP4P5Fae_n8q2x-LkkVgvNseFJW73mZkZpxvRXZO-KE15uPDvZFvmrL0Uz2yKhqt55lm-Px8d34l91ulxaHGng82JjkWq2JbTnn3MauaOwTf92sJpr7M8Fe8Ur200K36JuZh1pEtBfkIq1WCPeEhsLw8sWhb6qdcsuCgqXKJ30TxQQ3lyLzcFc0-6-dhSTK6b7ArndduSRXPjuxD6XnkMaeOmx92Zl_3vMoXTYuHHawTn_w3JvwAAAP__dwCIpQ"
+        "text": "On-Market Comparables"
       }
     ]
   },
