@@ -11,7 +11,7 @@ const config = {
     "title": "Sales Representative",
     "phone": "1-519-433-4331",
     "email": "contact@alexandrarealtor.ca",
-    "bio": "Alexandra Graham | West London Specialist\n\nWith 20+ years in London, I bring extensive knowledge of West London neighborhoods and future planning initiatives. \n\nMy background in renovation, property investment, and construction gives me a unique eye for potential and value.  I create tailored experiences based on your comfort level, treating every client with honesty and integrity while using strategic marketing and technology to ensure maximum exposure. \n\nWhether you're seeking a fixer-upper or luxury property in West London, I'll make your homeownership journey exciting and positive!",
+    "bio": "\nWith 20+ years in London, I bring extensive knowledge of West London neighborhoods and future planning initiatives. \n\nMy background in renovation, property investment, and construction gives me a unique eye for potential and value.  I create tailored experiences based on your comfort level, treating every client with honesty and integrity while using strategic marketing and technology to ensure maximum exposure. \n\nWhether you're seeking a fixer-upper or luxury property in West London, I'll make your homeownership journey exciting and positive!",
     "photoUrl": "https://i.imgur.com/i5HJ83W.jpeg",
     "social": {
       "facebook": "https://www.facebook.com/RealEstateLondonOn/",
