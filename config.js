@@ -12,7 +12,7 @@ const config = {
     "phone": "",
     "email": "contact@alexandrarealtor.ca",
     "bio": "",
-    "photoUrl": "",
+    "photoUrl": "https://i.imgur.com/i5HJ83W.jpeg",
     "social": {
       "facebook": "",
       "instagram": "",
