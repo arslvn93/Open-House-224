@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "",
-    "logoUrl": "",
+    "logoUrl": "https://i.imgur.com/DXN7PHd.png",
     "address": ""
   },
   "openHouse": {
