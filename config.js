@@ -20,9 +20,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "",
+    "name": "Sutton Select",
     "logoUrl": "https://i.imgur.com/DXN7PHd.png",
-    "address": ""
+    "address": "250 Wharncliffe Rd N, London, ON N6H 2B8"
   },
   "openHouse": {
     "bundleItems": [
