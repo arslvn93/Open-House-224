@@ -88,7 +88,7 @@ const config = {
     "repoName": "Open-House-224",
     "repoUrl": "https://github.com/arslvn93/Open-House-224",
     "tag": "Open House 2450 Brayford",
-    "netlifyUrl": "http://Open-House-224.netlify.app",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/zpjvSoJ3TMkdq8pcj7VJ/webhook-trigger/7jreE71XqUoZ742tZguz",
     "netlifyId": "1bfd6b79-93a8-4ae5-9197-6845f3f9951a"
   }
 };
